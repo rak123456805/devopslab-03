@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WebPageTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-03-17T06:09:41.189Z" hostname="AIDS-LAB-45" time="0.011">
+  <properties/>
+  <testcase name="titleValidationTest" classname="WebPageTest" time="0.011"/>
+  <system-out><![CDATA[Page Title: My Simple Website
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
